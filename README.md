@@ -1,6 +1,6 @@
 # Senior task
 
-## How to create great project architecture
+## How to create great project architecture? Feature-sliced architecture
 
 #### Go to workdir(in us example is src folder)
 ```shell
