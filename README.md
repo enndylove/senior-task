@@ -64,3 +64,5 @@ mkdir -p shared/ui
     |                           #
     └── index.tsx/              #
 ```
+
+### Also using craco configure for good router directory - [documentation](https://craco.js.org/docs/getting-started/)
